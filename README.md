@@ -1,2 +1,2 @@
-# Unarysums
-A turing machine prototype that sums unary numbers
+Readme
+Um protótipo de máquina de turing que soma números unários
